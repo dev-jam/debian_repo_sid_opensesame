@@ -49,16 +49,16 @@ Description: This file is part of datamatrix.
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-eyelinkparser
-Version: 0:0.17.4-3~w2d0
+Version: 0:0.17.5-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
 Installed-Size: 93
 Depends: python3-datamatrix, python3-fastnumbers, python3:any
-Filename: ./python3-eyelinkparser_0.17.4-3~w2d0_all.deb
-Size: 22320
-MD5sum: 7bfebb2670738857f893883ec7464636
-SHA1: 9ac3f863fb648aca8173339ad7d57446dcb607cb
-SHA256: c3f0f635ed3578a5ad17b421543cafc157d5394ef300a509c8981578fe1715b8
+Filename: ./python3-eyelinkparser_0.17.5-1~w2d0_all.deb
+Size: 22316
+MD5sum: 8bcd3da4dc281903a8da12d6b1fd6271
+SHA1: 757c87939e0575d8efb3b04c1e8c196054909c49
+SHA256: 5dfdf3d4acd7929592762ff390cbb072e65cd51b13d6584cf0ecd4679b610e9a
 Section: python
 Priority: optional
 Description: This file is part of eyelinkparser.
@@ -283,16 +283,16 @@ Description: An OpenSesame Plug-in for sending stimulus synchronization triggers
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-opensesame-plugin-psychopy
-Version: 0:0.8.0-2~w2d0
+Version: 0:0.8.0-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
 Installed-Size: 411
 Depends: python3 (>= 3.7~), python3-opensesame (>> 3.99.99), python3:any
-Filename: ./python3-opensesame-plugin-psychopy_0.8.0-2~w2d0_all.deb
-Size: 42472
-MD5sum: 671d188e2305c35602507d1fd8bc4bb7
-SHA1: 360d6f0aefde8a419c960b1b55df0771f35973a4
-SHA256: 62270906b51055c56cc900ce713910d80a2df20bad21596dd81772e501b8d022
+Filename: ./python3-opensesame-plugin-psychopy_0.8.0-1~w2d0_all.deb
+Size: 42468
+MD5sum: 389565e5cff9b65d915eab0678071fa0
+SHA1: 50e9b4af387fd3cc7a1431c1a6fff4d14a27b3a4
+SHA256: ffa1640851c0d77f9360e7e80c77cee6628fb58a80099a17e6a73544e29db5c6
 Section: python
 Priority: optional
 Homepage: https://osdoc.cogsci.nl/
