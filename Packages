@@ -48,6 +48,23 @@ Priority: optional
 Description: This file is part of datamatrix.
  This package was automatically generated from the upstream wheel by wheel2deb.
 
+Package: python3-dukpy
+Version: 0:0.2.3-1~w2d0
+Architecture: amd64
+Maintainer: Bob Rosbag <debian@bobrosbag.nl>
+Installed-Size: 7344
+Depends: python3 (<< 3.13), python3 (>= 3.12~), python3:any
+Filename: ./python3-dukpy_0.2.3-1~w2d0_amd64.deb
+Size: 1490164
+MD5sum: 75d4a625ede0884af0f2fb14fea10a23
+SHA1: 057aa74c696adddddd00902690689104147c29cd
+SHA256: e034bc107073228a5d2b49989f1c8cb3d0040c09450021453fcad96d9639c0d9
+Section: python
+Priority: optional
+Homepage: https://github.com/amol-/dukpy
+Description: Simple JavaScript interpreter for Python
+ This package was automatically generated from the upstream wheel by wheel2deb.
+
 Package: python3-eyelinkparser
 Version: 0:0.17.5-1~w2d0
 Architecture: all
