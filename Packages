@@ -82,19 +82,18 @@ Description: This file is part of eyelinkparser.
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-fastnumbers
-Version: 0:5.1.0-1~w2d0
+Version: 0:5.1.1-1~w2d0
 Architecture: amd64
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 6890
+Installed-Size: 6993
 Depends: python3 (<< 3.13), python3 (>= 3.12~), python3:any
-Filename: ./python3-fastnumbers_5.1.0-1~w2d0_amd64.deb
-Size: 1159460
-MD5sum: 66925dfe38aa4abf898377993652a937
-SHA1: df85b659fc1902bea6c486acf0316b8289c6fd3c
-SHA256: 1be27bfc797d96967e90710c64e1cd58b781485e678c3146030d02e91aebde9a
+Filename: ./python3-fastnumbers_5.1.1-1~w2d0_amd64.deb
+Size: 1174384
+MD5sum: 335858c5570651f9b149427f686168f3
+SHA1: a59b37cf22adf4362eeb76add3e0da0beccf26b5
+SHA256: 48345802892ec02e1aa336087faba022451cd4ab5cda0064557bc1534d2e89dd
 Section: python
 Priority: optional
-Homepage: https://github.com/SethMMorton/fastnumbers
 Description: Super-fast and clean conversions to numbers.
  This package was automatically generated from the upstream wheel by wheel2deb.
 
@@ -334,16 +333,16 @@ Description: An OpenSesame Plug-in for collecting button responses, audio detect
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-opensesame-plugin-screenshot
-Version: 0:0.2.0-1~w2d0
+Version: 0:0.3.0-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 69
+Installed-Size: 70
 Depends: python3 (>= 3.7~), python3:any
-Filename: ./python3-opensesame-plugin-screenshot_0.2.0-1~w2d0_all.deb
-Size: 18852
-MD5sum: 71e65e5c8237bb5de994b6cd06602704
-SHA1: c8466815eef90ca26c3d7005c505714fa481494b
-SHA256: f5b546041ab2789c3473527aa8b044bc8b32465ad4448f3316baf977a3b96a9c
+Filename: ./python3-opensesame-plugin-screenshot_0.3.0-1~w2d0_all.deb
+Size: 18896
+MD5sum: f46b0a976ccec4418b9be1e20263a8a4
+SHA1: 00e8c855dba940882e486004ed9ffc0765639b84
+SHA256: 0566e76f0b42da72a5b37829ec0f054316abd6e5c870d37886366d1f44a04913
 Section: python
 Priority: optional
 Homepage: https://github.com/dev-jam/opensesame-plugin-screenshot
@@ -468,16 +467,16 @@ Description: Play and Record Sound with Python
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-spellchecker
-Version: 0:0.8.1-1~w2d0
+Version: 0:0.8.2-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 6774
+Installed-Size: 7119
 Depends: python3 (>= 3.7~), python3:any
-Filename: ./python3-spellchecker_0.8.1-1~w2d0_all.deb
-Size: 6742000
-MD5sum: 5f1be224308dd6430291ebcad78d7748
-SHA1: a63e8caeb5a4627236d817feabc8ffecc0ed7794
-SHA256: 9c62fa6bcea61b45dadc3046942ce586b3299966e8c40ebfb0e48711da2f3d96
+Filename: ./python3-spellchecker_0.8.2-1~w2d0_all.deb
+Size: 7125576
+MD5sum: 73f5a3fb16a1524130e4bb8f4aeafab2
+SHA1: 93c9edce9455580d754209de520bc731fa4fc16a
+SHA256: e277aded928d492bbf3e6f23262fe2901ca7323ad4f0d094cba98eba7995dfd4
 Section: python
 Priority: optional
 Description: Pure python spell checker based on work by Peter Norvig
