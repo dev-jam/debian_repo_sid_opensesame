@@ -165,19 +165,18 @@ Description: Video editing with Python
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-opensesame-extension-osweb
-Version: 0:2.2.2.1-1~w2d0
+Version: 1:2.2.6.0-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 9073
+Installed-Size: 9074
 Depends: python3 (>= 3.4~), python3-bs4, python3-esprima, python3-javascripthon, python3-js2py, python3-requests-toolbelt, python3:any
-Filename: ./python3-opensesame-extension-osweb_2.2.2.1-1~w2d0_all.deb
-Size: 1056064
-MD5sum: 59a60e813c577e431540a56d3e81161e
-SHA1: c20d07087e4d975711fd96bb6b81c1ab6e7627da
-SHA256: 401e06bb2c47e203c8acd069265a481590277b88293608142701df3b6c20287d
+Filename: ./python3-opensesame-extension-osweb_2.2.6.0-1~w2d0_all.deb
+Size: 1057040
+MD5sum: b289251be642b614ca85044c069a7330
+SHA1: 4cbb365b21e424a9541b2f50f05a312226166074
+SHA256: 099139ee8eb408ef8e30a0192e99d104c5ab5e28b36fb51d2e964f8e6b60a4aa
 Section: python
 Priority: optional
-Homepage: https://osdoc.cogsci.nl
 Description: Extensions and plugins for OpenSesame to run experiments in a browser using OSWeb
  This package was automatically generated from the upstream wheel by wheel2deb.
 
