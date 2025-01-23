@@ -149,16 +149,16 @@ Description: Moviepy based media decoding library
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-moviepy
-Version: 0:2.1.1-1~w2d0
+Version: 1:2.1.2-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 405
+Installed-Size: 417
 Depends: python3 (>= 3.9~), python3-decorator (<< 6.0), python3-decorator (>= 4.0.2), python3-dotenv (>= 0.10), python3-imageio (<< 3.0), python3-imageio (>= 2.5), python3-imageio-ffmpeg (>= 0.2.0), python3-numpy (>= 1.25.0), python3-pil (<< 11.0), python3-pil (>= 9.2.0), python3-proglog (<= 1.0.0-+), python3:any
-Filename: ./python3-moviepy_2.1.1-1~w2d0_all.deb
-Size: 79980
-MD5sum: 3cf94bb08672ee7292abafd86c942fa5
-SHA1: d0ac3d5b3bc9f65730d5799cbcc220c164532c15
-SHA256: ab1b7b9997cbffedb274a501b78ae5f0caf42d397f2115504a5d98a1a7620285
+Filename: ./python3-moviepy_2.1.2-1~w2d0_all.deb
+Size: 82508
+MD5sum: 230842e35c90877c4af819b691db07ed
+SHA1: c7586eba891f77830fd50d488cf4418331778beb
+SHA256: c33091c6d7e3f07e7451ab2e5046b8444711b917ebe00f4d2569b84ee6715fd9
 Section: python
 Priority: optional
 Description: Video editing with Python
