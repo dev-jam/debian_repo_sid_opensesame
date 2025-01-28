@@ -332,16 +332,16 @@ Description: An OpenSesame Plugin for saving screenshots of stimuli and other sc
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-opensesame-plugin-titta-eyetracking
-Version: 0:4.0.0-1~w2d0
+Version: 1:4.0.1-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
 Installed-Size: 148
-Depends: python3 (>= 3.8~), python3-pandas, python3-titta (>= 2.0.1), python3-tittapy (>= 1.0.0), python3:any
-Filename: ./python3-opensesame-plugin-titta-eyetracking_4.0.0-1~w2d0_all.deb
-Size: 24956
-MD5sum: 7c3facd11c6717edbf26c9d129a73cf0
-SHA1: 8f1b5f3bfc7293be0b12b2576d77a3acaa3149bd
-SHA256: ee7c877ff46bbf3974efb0f0fe143d22eb88fd1be524aefaa06e48ac521c18a5
+Depends: python3 (>= 3.8~), python3-pandas, python3-titta (>= 2.1.0), python3-tittapy (>= 1.0.0), python3:any
+Filename: ./python3-opensesame-plugin-titta-eyetracking_4.0.1-1~w2d0_all.deb
+Size: 24952
+MD5sum: c74aae66117e9bb786a8d6c592da32d4
+SHA1: b071809ec55faab1661744fed559da51a0d4eeac
+SHA256: c986951960ed0b57eb55defb173595a740c103b2c58a2ec13da760f4fd032b89
 Section: python
 Priority: optional
 Homepage: https://github.com/dev-jam/opensesame-plugin-titta_eyetracking
