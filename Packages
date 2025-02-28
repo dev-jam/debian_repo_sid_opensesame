@@ -348,6 +348,32 @@ Homepage: https://github.com/dev-jam/opensesame-plugin-titta_eyetracking
 Description: Titta Eye Tracking plugin for OpenSesame
  This package was automatically generated from the upstream wheel by wheel2deb.
 
+Package: python3-pep8
+Source: pep8
+Version: 1.7.1-11
+Architecture: all
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Installed-Size: 134
+Depends: python3-pkg-resources, python3:any
+Recommends: pycodestyle
+Filename: ./python3-pep8_1.7.1-11_all.deb
+Size: 38320
+MD5sum: 3b4d7f5c70ff085c85bd3f77c0cb5d19
+SHA1: 77d77d2f17c06be7efeb2b76e7c93e79aa6d36cc
+SHA256: 966fcc8cd6622fd2167b28bc6c58357017232ec9bddf57ea3edee0826efd09d0
+Section: python
+Priority: optional
+Homepage: https://pypi.python.org/pypi/pep8
+Description: Python PEP 8 code style checker - Python 3
+ Features a plugin architecture allowing for adding new checks is easily.
+ Parseable output listing line numbers of the error location.  Consists of
+ just one Python file, and requires only stdlib.
+ .
+ If you are looking for the pep8 binary program, it was renamed to
+ pycodestyle.
+ .
+ Python 3 version.
+
 Package: python3-pipewire
 Version: 0:0.2.3-1~w2d0
 Architecture: all
