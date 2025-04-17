@@ -148,19 +148,19 @@ Description: None
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-moviepy
-Version: 1:2.1.2-1~w2d0
+Version: 0:2.1.2-1~w2d0
 Architecture: all
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 417
-Depends: python3 (>= 3.9~), python3-decorator (<< 6.0), python3-decorator (>= 4.0.2), python3-dotenv (>= 0.10), python3-imageio (<< 3.0), python3-imageio (>= 2.5), python3-imageio-ffmpeg (>= 0.2.0), python3-numpy (>= 1.25.0), python3-pil (<< 11.0), python3-pil (>= 9.2.0), python3-proglog (<= 1.0.0-+), python3:any
-Filename: ./python3-moviepy_2.1.2-1~w2d0_all.deb
-Size: 82508
-MD5sum: 230842e35c90877c4af819b691db07ed
-SHA1: c7586eba891f77830fd50d488cf4418331778beb
-SHA256: c33091c6d7e3f07e7451ab2e5046b8444711b917ebe00f4d2569b84ee6715fd9
+Installed-Size: 428
+Depends: python3:any
+Filename: ./python3-moviepy_2.1.2-2~w2d0_all.deb
+Size: 84988
+MD5sum: 34d79c61d732937846243ce71dbbcb65
+SHA1: 0503bc7b03f4ea4eb7f60e264288693db20d16ca
+SHA256: a33a015c265c74607b47c36f53d8fd1f386ea7b4f99c019c5cd3c6ec8a949549
 Section: python
 Priority: optional
-Description: Video editing with Python
+Description: None
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-opensesame-extension-osweb
