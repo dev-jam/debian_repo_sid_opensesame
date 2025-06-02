@@ -490,19 +490,18 @@ Description: Pure python spell checker based on work by Peter Norvig
  This package was automatically generated from the upstream wheel by wheel2deb.
 
 Package: python3-sr-research-pylink
-Version: 0:2.1.1145.post1-1~w2d0
+Version: 0:2.2.183.0-1~w2d0
 Architecture: amd64
 Maintainer: Bob Rosbag <debian@bobrosbag.nl>
-Installed-Size: 1533
-Depends: python3 (<< 3.13), python3 (>= 3.12~), python3:any
-Filename: ./python3-sr-research-pylink_2.1.1145.post1-1~w2d0_amd64.deb
-Size: 426636
-MD5sum: e318fd8a2d69df3fbb435966dd3079d7
-SHA1: 788239663e3eb0aebf4632a7655fc6fac3523313
-SHA256: d9ef37766511240662123d699ea616d3420d262fe96ab1ed32ff75906d6730ae
+Installed-Size: 13242
+Depends: python3 (<< 3.14), python3 (>= 3.13~), python3:any
+Filename: ./python3-sr-research-pylink_2.2.183.0-1~w2d0_amd64.deb
+Size: 587144
+MD5sum: 013cc8facbaa0a12ca44772f2927160e
+SHA1: 5c91901aa7fe4ae82f2e7a70c230bdc58282add8
+SHA256: 33ab726f2fe36424bd5751c8dddb48bf5a51ea8c57acd385381273062d729ab0
 Section: python
 Priority: optional
-Homepage: https://www.sr-research.com/support
-Description: Python module for interfacing SR Research EyeLink eye trackers
+Description: None
  This package was automatically generated from the upstream wheel by wheel2deb.
 
